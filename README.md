@@ -1,11 +1,16 @@
 ### Hi there 👋
 
-My name is Camilo Pestana, a Software Developer with passion for everything related with data, computer vision, deep learning and of course... Music ! Currently, a PhD student working on Adversarial Learning, Explainability and Robustness in Deep Learning.
+My name is Camilo Pestana, a Software Developer with passion for everything related with data, computer vision, deep learning and of course... Music ! Currently, a PhD student living in Australia.
+
+- 🔭 I’m currently working on Adversarial Learning, Explainability and Robustness in Deep Learning research.
+- 🌱 I’m currently learning about Neural Style Transfer, Neural Differentiable Rendering, Adversarial Attacks and Defenses.
+- 📫 How to reach me: capcarde@gmail.com
 
 [![Camilo's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=elcronos)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Camilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=elcronos&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **elcronos/elcronos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
