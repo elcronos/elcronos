@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Camilo Pestana, a Software Developer with passion for everything related with data, computer vision and deep learning. Currently, a PhD student working on Adversarial Learning, Explainability and Robustness in Deep Learning.
+My name is Camilo Pestana, a Software Developer with passion for everything related with data, computer vision, deep learning and of course... Music !. Currently, a PhD student working on Adversarial Learning, Explainability and Robustness in Deep Learning.
 
 [![Camilo's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=elcronos)](https://github.com/anuraghazra/github-readme-stats)
 
