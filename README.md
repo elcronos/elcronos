@@ -2,7 +2,7 @@
 
 My name is Camilo Pestana, a Software Developer with passion for everything related with data, computer vision, deep learning and of course... Music ! Currently, a PhD student living in Australia.
 
-- 🔭 I’m currently working on Adversarial Learning, Explainability and Robustness in Deep Learning research.
+- 🔭 I’m currently working on Adversarial Learning, Explainability and Robustness in Deep Learning.
 - 🌱 I’m currently learning about Neural Style Transfer, Neural Differentiable Rendering, Adversarial Attacks and Defenses.
 - 📫 How to reach me: capcarde@gmail.com
 
